@@ -22,7 +22,6 @@ sklearn-learn、matplotlib、numpy等
 
 # 3.目录结构描述
 * ReadMe.md:本项目的帮助文档，包含项目介绍、数据集介绍、项目思路、文件结构、环境依赖等。
-* flitered_cnews.train.txt:本项目采用的数据集，包含六个模块（"体育", "财经", "房产", "家居", "教育", "科技"）新闻各5000篇，共30000 篇；每篇新闻样本由类别标签（lable）和内容（text）组成。
 * stopwords.txt:本项目使用的停用词表，包含一些常见的停用词。
 * text_classification.ipynb:本项目的完整代码文件，使用Jupyter Notebook打开，包含数据预处理、特征提取、模型训练和模型评估等步骤。 
 
